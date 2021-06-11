@@ -1,5 +1,5 @@
 # :zap: Data Preprocessing Command Line Interface
-#Mainly designed for Supervised Learning Algorithms
+Mainly designed for Supervised Learning Algorithms. 
 The CLI made to preprocess the database and save your **time**:clock1:
 
 ## Gist
